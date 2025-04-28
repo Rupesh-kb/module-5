@@ -10,8 +10,10 @@ To write a C Program to find area of rectangle using pointer.
 5.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/f393b0e4-9496-453f-b4d6-57f7a73b527c)
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/ed941db7-c9bb-4dec-8834-5941238062d0)
 		       	
 
 
@@ -34,8 +36,11 @@ To write a C Program to print 'WELCOME' using malloc() and free().
 6.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/f3084181-c0eb-4c59-9367-10581c8a02f4)
 
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/d627db81-419d-4a45-b4d5-6e88a58332f1)
 
 
 
@@ -61,8 +66,12 @@ To write a C Program to store the student information and display it using struc
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/16895263-8029-4bbc-ac05-f424c8fe4ad2)
+
 
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/81dd5f54-b2f0-40f5-b201-0e7e64ef4344)
 
 
 ## RESULT
@@ -88,8 +97,12 @@ To write a C Program to read and store the data of 3 employees and calculate the
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/8fbc5b6c-84ff-4c37-8350-50b46e478619)
+
 
  ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/ebc6f932-b62e-4e9a-9204-831b6c06868b)
 
  
 
@@ -135,8 +148,12 @@ Step 8: End the program.
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/12709225-c637-4e61-b3bd-92dd2866b1cb)
+
 
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/8f59ff6d-55c6-4ce4-b332-4699e25aec1d)
 
  
 
